@@ -1,2 +1,9 @@
 # Voice-Assistance
-Voice Assistance : A project of Voice Assistance Using Python
+Voice Assistance : A project of Voice Assistance. It understand our command and work as our requirement. It works like human assistance.
+It is created for Internship.
+
+## Technologies Used
+
+### Python
+
+This project is created using pyhton.
